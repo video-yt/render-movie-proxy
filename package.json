@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Streaming proxy server for movie-box.co using got-scraping",
   "type": "module",
-  "main": "proxy-server.mjs",
+  "main": "index.js",
   "scripts": {
-    "start": "node proxy-server.mjs"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=18.0.0"
